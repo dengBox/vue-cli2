@@ -1,4 +1,4 @@
-# a
+# vue-cli2
 
 > A Vue.js project
 
@@ -23,3 +23,5 @@ npm run unit
 # run all tests
 npm test
 ```
+## docs
+打包后路径为```./docs```，为了适配```GitHub Pages```
