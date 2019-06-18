@@ -4,7 +4,12 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 
+import shUI from 'shsc-ui'
+import 'shsc-ui/dist/shsc-ui.css'
+// import {Input} from 'shsc-ui'
+// Vue.component('Input', Input)
 Vue.config.productionTip = false
+Vue.use(shUI)
 
 /* eslint-disable no-new */
 new Vue({
