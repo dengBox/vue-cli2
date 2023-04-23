@@ -17,7 +17,7 @@
     "babel-plugin-import": "^1.11.2",
     "iview": "^3.4.2",
     "shsc-ui": "^1.0.1",
-    "tinymce": "^5.0.15",
+    "tinymce": "^5.10.7",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
